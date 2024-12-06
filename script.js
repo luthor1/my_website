@@ -5,13 +5,13 @@ document.addEventListener("DOMContentLoaded", function () {
     const videoList = [
        //  { title: "", url: "../videolar2/2 (1).mp4", thumbnail: "../resimler2/2 (1).png", category: "category1", description: "" },
         //  { title: "", url: "../videolar2/2 (1).mp4", thumbnail: "../resimler2/2 (1).png", category: "category1", description: "" },
-        { title: "Kızıl afet den bir sakso", url: "../videolar/1.mp4", thumbnail: "/resimler/1.png", category: "category1", description: "Kızıl saçlı afet erkeğinin taşşaklarına kadar yalıyor" },
-        { title: "Fileli çorabınıda giymiş", url: "../videolar/2.mp4", thumbnail: "../resimler/2.png", category: "category2", description: "Yeter Yeter desede durmuyo" },
-        { title: "Kızıl yarrak istiyor", url: "../videolar/3.mp4", thumbnail: "../resimler/3.png", category: "category2", description: "Kızıl saçlı kadın erkeği için domalıyor(admin tavsiysi)" },
-        { title: "Azgın sarışın bakire", url: "../videolar/4.mp4", thumbnail: "../resimler/4.png", category: "category2", description: "Azgın kadın bakireliği bozulmaması için içine almıyor" },
-        { title: "Fazntezik üni liler", url: "../videolar/5.mp4", thumbnail: "../resimler/5.png", category: "category2", description: "Üniversiteli gençler fazntezi peşinde" },
-        { title: "Sarışına nefes aldırmıyor", url: "../videolar/6.mp4", thumbnail: "../resimler/6.png", category: "category2", description: "seni ilk siktiğimde kaç yaşındayıdn diye soruyor" },
-        { title: "İnci gibi kızdan sakso", url: "../videolar/7.mp4", thumbnail: "../resimler/7.png", category: "category1", description: "Taş gibi liseli sevgilisine sakso çektiriyor" }, 
+        { title: "Kızıl afet den bir sakso", url: "../videolar/1.mp4", thumbnail: "resimler/1.png", category: "category1", description: "Kızıl saçlı afet erkeğinin taşşaklarına kadar yalıyor" },
+        { title: "Fileli çorabınıda giymiş", url: "../videolar/2.mp4", thumbnail: "resimler/2.png", category: "category2", description: "Yeter Yeter desede durmuyo" },
+        { title: "Kızıl yarrak istiyor", url: "../videolar/3.mp4", thumbnail: "resimler/3.png", category: "category2", description: "Kızıl saçlı kadın erkeği için domalıyor(admin tavsiysi)" },
+        { title: "Azgın sarışın bakire", url: "../videolar/4.mp4", thumbnail: "resimler/4.png", category: "category2", description: "Azgın kadın bakireliği bozulmaması için içine almıyor" },
+        { title: "Fazntezik üni liler", url: "../videolar/5.mp4", thumbnail: "resimler/5.png", category: "category2", description: "Üniversiteli gençler fazntezi peşinde" },
+        { title: "Sarışına nefes aldırmıyor", url: "../videolar/6.mp4", thumbnail: "resimler/6.png", category: "category2", description: "seni ilk siktiğimde kaç yaşındayıdn diye soruyor" },
+        { title: "İnci gibi kızdan sakso", url: "../videolar/7.mp4", thumbnail: "resimler/7.png", category: "category1", description: "Taş gibi liseli sevgilisine sakso çektiriyor" }, 
       
     ];
 
