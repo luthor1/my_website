@@ -2,7 +2,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('../resimler/pexels-simon-rizzi-1809644.jpg');
+    background-image: url('resimler/pexels-simon-rizzi-1809644.jpg');
     background-size: cover;
     background-position: center;
     color: #000000;
